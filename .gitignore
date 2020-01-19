@@ -1,0 +1,6 @@
+venv
+task_venv
+.env
+*.log
+.idea
+__pycache__
